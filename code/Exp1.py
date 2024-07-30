@@ -1,3 +1,5 @@
+print("           OUTPUT")
+print()
 #Variables
 print("Variables")
 age=24
