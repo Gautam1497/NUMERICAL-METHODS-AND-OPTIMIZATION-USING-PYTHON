@@ -1,5 +1,5 @@
 print("Gautam Kumar")
-print("21BCS998")
+print("21BCS5998")
 def bisection_method(func, a, b, tol=1e-6, max_iter=100):
     if func(a) * func(b) > 0:
         raise ValueError("The function values at the interval endpoints must have opposite signs.")
